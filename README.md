@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wayneahmad
 - 👀 I’m interested in Data Engineering & AWS 
 - 🌱 Just completed my Solutions Architect Associate Certifications and now learning, Terraform
-- 💞️ I’m looking to collaborate on anything that can give me hands on experience to further my career in cloud computing/Dev ops.
+- 💞️ I’m looking to collaborate on anything that can give me hands on experience to further my career in data.
 - 📫 How to reach me? By Email at wayneahmad33@gmail.com
 
 <!---
