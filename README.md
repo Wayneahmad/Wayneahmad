@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wayneahmad
 - 👀 I’m interested in Data Engineering & AWS 
 - 🌱 Completed my Cloud practioner & Solutions Architect Associate Certifications by AWS.
--    Has an ever-expanding knowledge of tools/concepts including Python, SQL, Git, Docker, CI/CD and AWS.
+-    Has an ever-expanding knowledge of tools/concepts including Python, SQL, Git, Terraform, Docker, CI/CD and AWS.
 - 💞️ I’m looking to collaborate on anything that can give me hands on experience to further my career Data/Cloud engineering.
 - 📫 How to reach me? By Email at wayneahmad33@gmail.com
 
